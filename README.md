@@ -1,2 +1,1 @@
-# Practice-Git
-A repo for you to get started. To do stuff, view the README file and follow the instructions.
+Still working on this. do nothing for the time being. come back and you will receive a a git tutorial.

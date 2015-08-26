@@ -7,3 +7,5 @@ I went to a lunch buffet yesterday had lots of sashimi,they're yummy :p
 how to create a folder and upload file here,,
 
 My little cousin is going to study Computer science in an America university,he's still in the international middle school :D He's also interested in Hacker :p
+
+I'm studying coding on a website "codecademy.com"

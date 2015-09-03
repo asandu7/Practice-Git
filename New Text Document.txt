@@ -1,0 +1,27 @@
+Getting started on git:
+
+I will help you start up on Git. Follow this instructions to set yourself up. Following, there will be an explanation of Git 
+and a tutorial of the workflow using the service. For the time being, follow the instructions precisely.
+
+1. Download and install Git for windows if you haven't already: https://windows.github.com/
+		This will be one of your Git&GitHub interfaces.
+		
+2. Create a folder on your local computer where your local repo will live. I will assume you called it "MyGit", and it is 
+found at "C:\MyGit".
+
+3. Open GitHub app and log in using your github account.
+
+4. Click on the + sign on the top-left corner of the app view and select "Clone"
+
+5. Select "andrei-practice" > "Practice-Git" and click "Clone Practice-Git"
+
+6. Select your "MyGit" folder you have created at step 2. and click "Ok" button
+
+7. Open Eclipse and update it to version 4.4.2.20150219-0708:
+		a) navigate to Help>Check for Updates
+		b) follow the wizard through installation
+		
+8. Install the Git plugin in Eclipse:
+		a) go to Help>Install new software...
+		b) select --All available sites-- in "Work with" dropdown
+		c) 
